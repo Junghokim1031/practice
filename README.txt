@@ -1,1 +1,1 @@
-THIS IS PURELY FOR PRACTICING GIT
+깃 로컬 저장소 연습중
